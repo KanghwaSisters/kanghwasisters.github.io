@@ -1,4 +1,4 @@
-—--
+---
 title: "Min-max 알고리즘, 알파-베타 프루닝"
 excerpt: "Min-max 알고리즘, 알파-베타 프루닝"
 categories: 24-2개인발표
@@ -14,7 +14,7 @@ header:
 
 date: 2024-09-23
 
-—--
+---
 
 # Min-Max 알고리즘
 
