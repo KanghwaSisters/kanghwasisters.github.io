@@ -50,7 +50,7 @@ date: 2024-09-23
     여기서는 **Max 플레이어를 기준으로** 좋고 나쁜 것을 판단하기 때문에, Min 플레이어가 자신의 score를 최대화하는 선택을 하는 것을 **Max플레이어의 score를 최소화하는 선택을 한다**고 표현한다.
     </aside>
     
-    ![image.png](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/1.png)
+    ![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/1.png)
     
     - 노드의 아래에서부터 올라가면, Max에서는 자식 노드들 중 가장 큰 값을 선택하고, Min에서는 자식 노드들 중 가장 작은 값을 선택해 표시한 것을 알 수 있다. 그리고 마지막 최상위 노드는 자식 노드들 중 최댓값을 선택한다.
     - Min-Max 알고리즘의 트리 탐색 과정
@@ -79,19 +79,19 @@ date: 2024-09-23
 
 ## 알파 컷
 
-![image.png](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/2.png)
+![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/2.png)
 
 - 왼쪽에서부터 탐색한다고 가정하자. 우선 Min이 결정하는 노드의 초기값은 $\infin$로 지정한다. 왼쪽 가지를 탐색하면 왼쪽 노드의 값을 $\infin$과 3 중 작은 값으로 업데이트 한다. 오른쪽 가지에 대해서도 탐색해 왼쪽 노드의 값은 3이 되었다. 그리고 오른쪽 노드의 값을 계산한다. 왼쪽 가지를 탐색하니 오른쪽 노드의 값이 2가 되었다. 더이상 탐색하지 않아도, 왼쪽 노드의 값이 오른쪽 노드의 값보다 크다. 즉, 다음 턴에서 Max는 왼쪽 노드의 값을 취할 것이다. (오른쪽 가지를 탐색해도 오른쪽 노드의 값이 2보다 커질 리는 없다.)
 
 ## 베타 컷
 
-![image.png](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/3.png)
+![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/3.png)
 
 - 왼쪽에서부터 탐색한다고 가정하자. 우선 Max가 결정하는 노드의 초기값은 $-\infin$로 지정한다. 왼쪽 가지를 탐색하면, 왼쪽 노드의 값을 $-\infin$과 2 중 큰 값으로 업데이트한다. 오른쪽 가지에 대해서도 탐색하면 왼쪽 노드의 값은 2가 되었다. 그리고 오른쪽 노드의 값을 계산한다. 왼쪽 가지를 탐색하니 오른쪽 노드의 값이 5가 되었다. 더이상 탐색하지 않아도, 왼쪽 노드의 값이 오른쪽 노드의 값보다 작다. 즉, 다음 턴에서 Min은 왼쪽 노드의 값을 취할 것이다. (오른쪽 가지를 탐색해도 오른쪽 노드의 값이 5보다 작아질 리는 없다.)
 
 ## 노드의 순서가 중요!
 
-![image.png](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/4.png)
+![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/4.png)
 
 - 베타컷 예시에서, 만약 terminal node들을 이런 순서로 탐색한다면, 베타컷을 적용하지 못하고 끝까지 탐색해야한다.
 
@@ -109,11 +109,11 @@ date: 2024-09-23
 
 ### 코드 (출처: 유튜브 영상)
 
-![그냥 Min-Max 알고리즘](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/5.png)
+![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/5.png)
 
 그냥 Min-Max 알고리즘
 
-![Min-Max 알고리즘 with alpha-beta pruning](({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/6.png)
+![image.png]({{ site.baseurl }}/assets/image/Articles/2024_2/2024-09-23-24_2MinmaxAlgorithm/6.png)
 
 Min-Max 알고리즘 with alpha-beta pruning
 
