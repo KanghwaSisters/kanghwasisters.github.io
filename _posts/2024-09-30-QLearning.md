@@ -89,7 +89,7 @@ $Q(S_t, A_t)\leftarrow Q(S_t, A_t)+\alpha (R_{t+1}+\gamma \underset{a'}\max  Q(S
 
 벨만 최적 방정식: 
 
-$q_* (s,a) = E[R_{t+1} + \gamma \underset{a'} \max q_* (S_{t+1}, a') | S_t = s, A_t = a]$
+<img src="{{ site.baseurl }}/assets/image/Articles/2024_2/QLearning/image9.png" style="max-width: 80%; height: auto;">
 
 
 큐러닝에서 보상 $R_{t+1}$은 실제로 에이전트가 환경으로부터 받는 값이므로 큐함수 업데이트 단계에서 실제 보상 샘플을 사용하여 기댓값을 근사하는 것이므로 기댓값 $E$를 뺄 수 있고, 그러면 위의 큐러닝을 통한 큐함수 업데이트의 식과 동일하다.
@@ -103,7 +103,7 @@ $Q(S_t, A_t)\leftarrow Q(S_t, A_t)+\alpha (R_{t+1}+\gamma   Q(S_{t+1}, A_{t+1}) 
 
 벨만 기대 방정식:
 
-$q_\pi (s,a) = E_\pi [R_{t+1} + \gamma q_\pi (S_{t+1}, A_{t+1}) | S_t = s, A_t = a]$
+<img src="{{ site.baseurl }}/assets/image/Articles/2024_2/QLearning/image10.png" style="max-width: 80%; height: auto;">
 
 
 이를 통해 큐함수를 업데이트하기 위해 살사에서는 벨만 기대 방정식을 사용하고 큐러닝에서는 벨만 최적 방정식을 사용한다는 것을 알 수 있다.
@@ -117,7 +117,7 @@ $q_\pi (s,a) = E_\pi [R_{t+1} + \gamma q_\pi (S_{t+1}, A_{t+1}) | S_t = s, A_t =
 
 큐러닝에서는 행동 선택은 $\epsilon$-탐욕 정책으로, 큐함수 업데이트는 벨만 최적 방정식을 이용한다.
 
-<img src="{{ site.baseurl }}/assets/image/Articles/2024_2/QLearning/image8.png" style="max-width: 40%; height: auto;">
+<img src="{{ site.baseurl }}/assets/image/Articles/2024_2/QLearning/image8.png" style="max-width: 90%; height: auto;">
 
 
 살사 에이전트, 큐러닝 에이전트의 환경과의 상호작용 비교
@@ -284,6 +284,4 @@ if __name__ == "__main__":
 
 ---
 
-출처 : 파이썬과 케라스로 배우는 강화학습
-
-       https://00h0.tistory.com/24
+출처 : 파이썬과 케라스로 배우는 강화학습, https://00h0.tistory.com/24
