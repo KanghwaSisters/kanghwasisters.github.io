@@ -1,4 +1,4 @@
-—
+---
 title: "[RL] REINFORCE알고리즘"
 excerpt: "Policy Gradient ,REINFORCE"
 categories: 24-2개인발표
@@ -13,13 +13,12 @@ header:
   teaser: ../assets/image/Thumbnail/24_2_Presentation.png
 
 date: 2024-10-07
+---
 
-—
 # REINFORCE 알고리즘
 
 2024-10-07 이채연
 
-**목차**
 
 # 정책 기반 강화 학습
 

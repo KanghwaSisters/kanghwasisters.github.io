@@ -1,19 +1,14 @@
+---
 Title : "시간차, SARSA, 딥 살사"
 Excerpt : "시간차, SARSA, 딥 살사"
 Categories : 24-2개인발표
 tags : [RL/장예원]
 Author : Yewon Jang
 Date : 2024-09-30
-
+---
 # 시간차, SARSA, 딥 살사
 
 @ 장예원_2024년 9월 30일
-
-**목차**
-
----
-
----
 
 # 시간차 예측
 

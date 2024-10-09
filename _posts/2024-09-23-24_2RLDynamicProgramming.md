@@ -1,3 +1,13 @@
+---
+Title : "다이나믹 프로그래밍"
+Excerpt : "정책 이터레이션, 가치 이터레이션"
+Categories : 24-2개인발표
+tags : [RL/안서연]
+Author : Seoyeon Ahn
+Date : 2024-09-23
+
+---
+
 # 다이나믹 프로그래밍
 
 **목차**
@@ -14,7 +24,7 @@
 
  작은 문제들의 답을 서로 이용한다는 특징이 있다.
 
-![image.png](image.png)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/6.png)
 
 예를 들어, 피보나치 수를 구하고 싶을 때, 재귀적으로 함수를 구성하면 f(n) = f(n-1) + f(n-2) 이다. 이때 하나의 값을 여러 번 계산해야 하는 현상이 발생하고 더 큰 피보나치 수를 구하고자하면 함수가 호출되는 횟수가 기하급수적으로 증가한다.
 
@@ -55,7 +65,7 @@
 
 현재 상태의 가치가 즉각적인 보상과 미래 상태의 가치에 의해 결정된다는 것을 보여준다. 
 
-![IMG_0545.jpg](IMG_0545.jpg)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/10.png)
 
 ## 벨만 최적 방정식
 
@@ -63,7 +73,7 @@
 
 상태 s에서 취할 수 있는 모든 가능한 행동들 중 최고의 행동을 선택하는 것을 볼 수 있다.
 
-![IMG_0548.jpg](IMG_0548.jpg)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/11.png)
 
 ---
 
@@ -89,11 +99,11 @@ graph TD;
 
 현재 정책이 주어졌을 때, 각 상태의 가치를 벨만 기대 방정식으로 계산한다.
 
-![IMG_0545.jpg](IMG_0545.jpg)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/10.png)
 
-![image.png](image%201.png)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/1.png)
 
-![image.png](image%202.png)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/2.png)
 
 이 과정을 모든 상태에 대하여 동시에 진행하는 것이 정책 평가 한 번을 수행하는 것에 해당한다. 모든 상태에 대해 **참 가치 함수**를 얻을 때까지 정책 평가를 반복한다. 즉, 가치 함수가 수렴할 때까지 모든 상태에 대하여 벨만 기대 방정식을 계산하는 것을 반복한다.
 
@@ -125,9 +135,9 @@ graph TD;
 
 가치 이터레이션은 현재 가치 함수가 최적 가치 함수라고 가정하기 때문에 정책 발전이 필요 없다. 따라서 각 상태의 최적 가치함수를 기반으로 바로 최적의 행동을 선택해가면서 가치 함수가 수렴할 때까지 벨만 최적 방정식 계산을 반복한다. 
 
-![image.png](image%203.png)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/3.png)
 
-![IMG_0548.jpg](IMG_0548.jpg)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/11.png)
 
 즉, 현재 가치 함수가 최적 가치 함수 v*(s)라고 가정하고 모든 상태에 대하여 위의 벨만 최적 방정식을 계산하여 새로운 가치 함수를 업데이트한다. 새로운 가치 함수가 곧 새로운 정책이다.
 
@@ -135,7 +145,7 @@ graph TD;
 
 정책 이터레이션과 가치 이터레이션 모두 가치함수를 여러 번 쪼개서 구한다.
 
-![IMG_0542.jpg](IMG_0542.jpg)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/7.png)
 
 그러나 정책 이터레이션은 하나의 정책에 대하여 여러 번 가치함수를 구하여 참 가치함수를 얻지만, 가치 이터레이션은 계속해서 새로운 정책에 대해 가치함수를 구하면서 최적 가치함수를 얻는다.
 
@@ -158,7 +168,7 @@ graph TD;
 
 # 예제 : 그리드 월드
 
-![image.png](image%204.png)
+![img]({{ site.baseurl }}/assets/image/Articles/2024_2/24_2RLDynamicProgramming/4.png)
 
 - 5  x 5 상태 공간
 - 빨간색 네모: 에이전트
