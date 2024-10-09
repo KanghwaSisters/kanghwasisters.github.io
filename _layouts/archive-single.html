@@ -23,24 +23,27 @@ layout: default
     {% endunless %}
     
     <!-- Your Content Section -->
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <!-- Teaser image goes here -->
-        <img src="{{ page.image }}" alt="Teaser Image">
-      </div>
+    <div class="archive" style="display: flex; align-items: center; border: 1px solid #000; padding: 10px;">
 
-      <div class="archive__item-content">
-        <div class="archive__item-title">
-          {{ page.title }}
-        </div>
-
-        <div class="archive__item-meta">
-          <span>{{ page.date | date: "%B %d, %Y" }}</span> • 
-          <span>{{ page.reading_time }} minute read</span> • 
-          <span>{{ page.tags }}</span>
-        </div>
+      <!-- 이미지 (30%) -->
+      <div class="archive__item-teaser" style="flex: 30%;">
+          <img src="{{ page.image }}" alt="Teaser Image" style="width: 100%; height: auto; background-color: #3a688e;">
       </div>
-    </div>
+  
+      <!-- 텍스트 (70%) -->
+      <div class="archive__item-content" style="flex: 70%; padding-left: 20px;">
+          <div class="archive__item-title" style="font-size: 1.5em; font-weight: bold;">
+            {{ page.title }}
+          </div>
+  
+          <div class="archive__item-meta" style="font-size: 1em; color: #666;">
+            <span>{{ page.date | date: "%B %d, %Y" }}</span> • 
+            <span>{{ page.reading_time }} minute read</span> • 
+            <span>{{ page.tags }}</span>
+          </div>
+      </div>
+  
+  </div>
     <!-- End Content Section -->
     
     {{ content }}
