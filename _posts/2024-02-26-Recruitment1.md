@@ -2,8 +2,6 @@
 title: "[강화시스터즈 1기] 모집공고"
 excerpt: 강화시스터즈 1기를 모집합니다! # 미리보기로 보이는 부분
 categories: 기타
-tags: 
-    - [공지, 모집]
 toc: true
 toc_sticky: true
 comments: true
@@ -12,11 +10,10 @@ author: Jimin Lee
 date: 2024-02-26
 
 ---
-![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/fb1ef872-0cb1-4789-856e-6104f0e9a108)
+![image]({{ site.baseurl }}/assets/image/main/RE1.PNG)
 
 ## 강화 시스터즈를 소개합니다!
 
----
 
 > **강화 시스터즈**는
 이화 최초의 강화학습 동아리이며,

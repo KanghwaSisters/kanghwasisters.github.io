@@ -2,8 +2,6 @@
 title: "[08주차/강화학습 세션/프로젝트intro] 슬롯머신 문제-DQN으로 구현"
 excerpt: "슬롯머신 문제,DQN" # 미리보기로 보이는 부분
 categories: 24-1강화학습세션
-tags: 
-    - [강화학습, 정규세션, 프로젝트]
 toc: true
 toc_sticky: true
 comments: true
@@ -40,10 +38,3 @@ date: 2024-05-13
 - 탐험률과 탐험률 감소를 에피소드 길이에 따라 조정해야 한다. 
   - epsilon_min에 닿기 전에 에피소드 iteration이 끝나면 이상함
 - action을 string을 혼용하는 것보다, int로 추상화시켜 표현하는 것이 편하다. 
-## 사진
-![IMG_9869](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/58a7c2d2-2be2-4780-85ff-855d3c5355e6)
-![IMG_9870](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/148bc071-8867-4a39-a148-343fcd7d05f1)
-![IMG_9867](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/09b3163f-88b2-47bc-ac72-06278275fba2)
-
-
-

@@ -1,8 +1,8 @@
 ---
-Title : "시간차, SARSA, 딥 살사"
+title : "시간차, SARSA, 딥 살사"
 Excerpt : "시간차, SARSA, 딥 살사"
-Categories : 24-2개인발표
-tags : [RL/장예원]
+categories: 24-2개인발표
+tags : [장예원]
 Author : Yewon Jang
 Date : 2024-09-30
 ---

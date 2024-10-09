@@ -2,8 +2,6 @@
 title: "[03주차/추가 딥러닝 세션] 딥러닝의 연산, 학습 평가, pytorch"
 excerpt: pytorch와 class # 미리보기로 보이는 부분
 categories: 24-1딥러닝스터디
-tags: 
-    - [활동,일지,스터디]
 toc: true
 toc_sticky: true
 comments: true
@@ -45,9 +43,3 @@ Dataset과 DataLoader 클래스는 파이토치를 이용한 딥러닝 구현에
 ## 핵심 내용
 
 1. **그래디언트 소실 문제는 input layer쪽으로 갈수록 심화된다.** 
-
-## 사진
-![IMG_9040](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/cdc0b1d0-260d-4643-8f58-93d5cb8b3107)
-![IMG_9041](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9054c68b-f1c0-4bf2-ba91-72dba2b72297)
-![IMG_9042](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/cca1ce80-7ab3-4fdf-81c3-b45855d5277d)
-

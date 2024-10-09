@@ -3,22 +3,20 @@ title: "강화학습 개론"
 excerpt: "강화학습, 에이전트, 환경"
 categories: 24-2개인발표
 tags: 
-    - [RL, 이은나]
+    - [이은나]
 toc: true
 toc_sticky: true
 comments: true
 use_math: true
 author: Eunna Lee
 header:
-  teaser: ../assets/image/Thumbnail/24_2_Presentation.png
+#   teaser: ../assets/image/Thumbnail/24_2_Presentation.png
 
 date: 2024-09-09
 
 ---
 
-# 강화학습 개론
-
-**목차** 
+  
 
 # 강화학습
 

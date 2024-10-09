@@ -2,8 +2,6 @@
 title: "[09주차-02/프로젝트] 지뢰찾기 agent, env 구현"  
 excerpt: "지뢰찾기 agent, env 구현" # 미리보기로 보이는 부분  
 categories: 프로젝트  
-tags: 
-    - [강화학습, 정규세션, 프로젝트, 이지민]  
 toc: true  
 toc_sticky: true  
 comments: true  
@@ -48,12 +46,4 @@ reward에 대한 의견을 나누었습니다.
    1. 같은 타일을 또 누르는 경우가 있기 때문에 총 클릭 수를 기준으로 하는 건 논리적 오류다. 
    2. 지뢰를 누르지 않고 지뢰가 아닌 나머지 타일들을 전부 다 까는 것을 목표로 하기에 전체 타일 수라는 기준은 옳지 않다. 
    3. step에서 발생하기 때문에 reward 값을 갖고 있어야 하는데, 리워드를 설정하지 않았고, 지뢰찾기 특성상 이 사건에 대한 리워드를 주기가 애매하다.
-
-
-## 사진
-![IMG_9970](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/19e48c7a-199f-43d9-89d8-c6bc23f67731)  
-
-![IMG_9971](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/dccb43bc-9c22-411f-a45f-cc2bc205b2cb)  
-
-![IMG_9973](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/345dac2a-4c32-4113-acda-56e76f888778)  
 

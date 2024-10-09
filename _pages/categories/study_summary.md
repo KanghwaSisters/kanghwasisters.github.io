@@ -1,8 +1,8 @@
 ---
-title: 개념 정리
+title: 개념정리
 layout: category
 permalink: /categories/study_summary/
-taxonomy: 개념 정리 
+taxonomy: 개념정리 
 ---
 
 {% assign posts = site.categories.categories %}

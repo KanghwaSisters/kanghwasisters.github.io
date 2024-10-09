@@ -2,8 +2,6 @@
 title: "[24-1 / 1기] 활동 수기"
 excerpt: "1기 멤버 활동 수기" # 미리보기로 보이는 부분
 categories: 아카이브
-tags: 
-    - [공지, 활동수기]
 toc: true
 toc_sticky: true
 comments: true
@@ -14,14 +12,14 @@ date: 2024-07-25
 ---
 ## 24-1 1기 멤버들의 활동 수기
 
-![pngwing com](https://github.com/user-attachments/assets/3f7c2f2a-3f26-40bb-9dfc-281ef05088b7)
+![img]({{ site.baseurl }}/assets/image/Articles/2024-1/IMG_0829.jpg) 
 > 24-1 강화시스터즈 1기 멤버들 ✨✨
 
 
 <table>  
 <tr>
 <td style="width: 150px;">
-<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9b15a11a-6e72-48dc-a74b-c58ddddd9bfe" width=150 style="display:block; margin:auto;"/>
+<img src="{{ site.baseurl }}/assets/image/members/JiminLee.jpg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -32,7 +30,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d6b1a41a-1b17-420a-b873-7e734c5664a1" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/SeungyeonLee.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -45,7 +43,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;"> 
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ae8b36be-3208-421b-868e-80f07f64330c" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/EunnaLee.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -61,7 +59,7 @@ date: 2024-07-25
 <tr>
 
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/42f424ad-55d9-4667-87ef-db98277ebf45" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/JieunByeon.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -75,7 +73,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/efe07f73-3084-4e63-a0fe-194a1aaf5f62" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/JuhyunSon.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -87,7 +85,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/f67370fe-96b5-48b4-ae3f-b42c4577c40d" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/DoHeeKim.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -100,7 +98,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/c0973c52-ca3c-4a4c-9d8a-b68df7055cc4" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/MinsuhJoo.png" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -115,7 +113,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9999d4b7-731d-449a-802b-3d5748aa4c40" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/JungyeonLee.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -129,7 +127,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3ae115a8-8b91-4341-90d4-830ffb9e5d83" width=150 style="display:block; margin:auto;"/>
+    <img src="{{ site.baseurl }}/assets/image/members/JungeunKim.jpeg" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>

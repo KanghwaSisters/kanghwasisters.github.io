@@ -3,13 +3,13 @@ title: "[GitHub/Git] 기초 깃 사용법"
 excerpt: "Push, Pull, Merge, Merge Conflict, fork"
 categories: 24-2개인발표
 tags: 
-    - [Github, 이지민]
+    - [이지민]
 toc: true
 toc_sticky: true
 comments: true
 author: Jimin Lee
 header:
-  teaser: ../assets/image/Thumbnail/24_2_Presentation.png
+  # teaser: ../assets/image/Thumbnail/24_2_Presentation.png
 
 date: 2024-09-02
 

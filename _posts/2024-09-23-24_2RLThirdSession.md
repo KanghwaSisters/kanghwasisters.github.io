@@ -3,14 +3,14 @@ title: "[03주차 / 강화학습세션] 다이나믹 프로그래밍, min-max, a
 excerpt: "정책 이터레이션, 가치 이터레이션, 듀얼 플레이어 게임 트리" 
 categories: 24-2메인세션
 tags: 
-    - [RL, 이지민]
+    - [이지민]
 toc: true
 toc_sticky: true
 comments: true
 use_math: true
 author: Jimin Lee  
 header:
-  teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
+  # teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
 
 date: 2024-09-23
 

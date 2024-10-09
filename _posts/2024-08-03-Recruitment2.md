@@ -2,8 +2,6 @@
 title: "[강화시스터즈 2기] 모집공고"
 excerpt: 강화시스터즈 2기를 모집합니다! # 미리보기로 보이는 부분
 categories: 기타
-tags: 
-    - [공지, 모집, 이지민]
 toc: true
 toc_sticky: true
 comments: true
@@ -133,18 +131,13 @@ date: 2024-08-03
 <table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr>
         <td>
-        <img src="https://github.com/user-attachments/assets/b6aadaf7-3963-429c-b9bb-4f2d98c8ccf0" width=200/>
+        <img src="{{ site.baseurl }}/assets/image/Projects/Minesweeper/minesweeper.gif" width=200/>
         </td>
         <td>
         승률 84% 강화학습 에이전트가 푸는 지뢰찾기
         </td>
     </tr>
 </table>
-
-**[현재 판 / 행동에 의한 다음 판 / Q-table]**
- 
-![withQtable](https://github.com/user-attachments/assets/1aa48104-0423-444e-8cda-152b44a00c03)
-
 
  <table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr>
@@ -172,7 +165,7 @@ date: 2024-08-03
         <td style="width: 50%;"><a href="https://kanghwasisters.github.io/%ED%99%9C%EB%8F%99%EC%88%98%EA%B8%B0/AfterActivity24_1/" style="color: inherit; text-decoration: none;">🔗 1기 멤버 활동 후기 바로가기 
          </a></td>
         <td style="width: 50%;">
-        <img src="https://github.com/user-attachments/assets/ae39ee90-c16e-42b3-8166-a6858e1a61c5"/><br>
+        <img src="{{ site.baseurl }}/assets/image/etc/AfterActive.png"/><br>
         <a href="https://github.com/KanghwaSisters/Activity-Reports.git" style="color: inherit; text-decoration: none;">🔗 활동보고서 바로가기 </a></td>
     </tr>
 

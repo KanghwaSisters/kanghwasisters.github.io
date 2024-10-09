@@ -3,14 +3,14 @@ title: "[RL] 온/오프 폴리시와 큐러닝"
 excerpt: "On-policy & off-policy, Q-Learning"
 categories: 24-2개인발표
 tags: 
-    - [RL, 이정연]
+    - [이정연]
 toc: true
 toc_sticky: true
 comments: true
 use_math: true
 author: Jungyeon Lee
 header:
-  teaser: ../assets/image/Thumbnail/24_2_Presentation.png
+#   teaser: ../assets/image/Thumbnail/24_2_Presentation.png
 
 date: 2024-09-30
 

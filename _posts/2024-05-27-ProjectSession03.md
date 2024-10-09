@@ -2,8 +2,6 @@
 title: "[10주차-01/프로젝트] 지뢰찾기 agent, env 구현"  
 excerpt: "지뢰찾기 agent, env 구현" # 미리보기로 보이는 부분  
 categories: 프로젝트  
-tags: 
-    - [강화학습, 정규세션, 프로젝트, 이지민]  
 toc: true  
 toc_sticky: true  
 comments: true  
@@ -57,9 +55,3 @@ interval print에 어떤 정보가 들어가야 하는지 고민하고, 이미 �
      - 🌟 net의 input / output의 크기는 고정이다 !! 🌟
   2. Env 같은 타일을 눌렀을 때 -의 보상을 준다. 
      - 추가적인 룰 없이, 강화학습 방법론만을 사용해 해결하는 방법
-
-## 사진
-![IMG_0013](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/5443d986-9653-41f8-ab00-2b6aa1721b74)
-![IMG_0010](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e364d05f-3ccf-4c5d-8a5f-50a1124bee6c)
-![IMG_0014](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e45f21f9-1929-4af7-b957-1c764b7c3649)
-![IMG_0016](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/1920d6aa-4b91-4e5f-a913-090195213802)

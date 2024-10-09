@@ -2,8 +2,6 @@
 title: "[07주차/강화학습 세션] 협업을 위한 기반 다지기"
 excerpt: "주제 공개, 코딩 컨벤션 정하기, 협업 방식 정하기" # 미리보기로 보이는 부분
 categories: 24-1강화학습세션
-tags: 
-    - [강화학습, 정규세션]
 toc: true
 toc_sticky: true
 comments: true
@@ -48,12 +46,3 @@ date: 2024-04-15
 2. ReadMe 형식 및 규칙 정하기 
 3. 팀 이름 정하기 
 4. 결과, 레퍼런스, 개발 일지 작성 규칙 정하기
-
-## 사진
-![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e1e10e41-d769-4ec8-8aa2-7ad48a87169b)
-![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/09d4f44b-453b-4aa3-8ec8-05bc5b182e07)
-<img width="1440" alt="IMG_9470" src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ce1314bb-d9f2-412d-b2ed-be7124b2aa3b">
-
-
-
-
