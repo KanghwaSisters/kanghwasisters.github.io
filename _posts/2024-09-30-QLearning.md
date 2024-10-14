@@ -16,11 +16,13 @@ date: 2024-09-30
 
 ---
 
-### On/off-Policy & Q-Learning
+**On/off-Policy & Q-Learning**
 
 2024-09-30 이정연
 
 ---
+
+# On-policy 강화학습의 단점
 
 5X5 **그리드월드**에서 **살사**(SARSA)와 **$\epsilon$-탐욕 정책**을 사용하여 **현재 상태의 큐함수를 업데이트**하는 것을 생각해보자.
 
@@ -60,7 +62,7 @@ $Q(s, a)\leftarrow Q(s,a)+\alpha (r+\gamma Q(s',a') - Q(s,a))$
 
 오프폴리시 알고리즘인 큐러닝에 대해 알아보자.
 
-## 큐러닝 Q-Learning
+# 큐러닝 Q-Learning
 
 큐러닝은 1989년에 Chris Watkins에 의해 소개된 이론이다.
 
@@ -124,7 +126,7 @@ $Q(S_t, A_t)\leftarrow Q(S_t, A_t)+\alpha (R_{t+1}+\gamma   Q(S_{t+1}, A_{t+1}) 
 
 ---
 
-## 큐러닝 코드
+# 큐러닝 코드
 
 ```python
 import numpy as np
