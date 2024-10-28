@@ -27,8 +27,8 @@ date: 2024-09-23
 
 ## 개인 발표
 
-- 📗 다이나믹 프로그래밍 : 안서연 벗
-- 📗 Min-Max : 이승연 벗
+- 📗 [다이나믹 프로그래밍](https://kanghwasisters.github.io/24-2%EA%B0%9C%EC%9D%B8%EB%B0%9C%ED%91%9C/24_2RLDynamicProgramming/) : 안서연 벗
+- 📗 [Min-Max](https://kanghwasisters.github.io/24-2%EA%B0%9C%EC%9D%B8%EB%B0%9C%ED%91%9C/24_2MinmaxAlgorithm/) : 이승연 벗
 
 ☝️ 제목을 누르면 글로 이동합니다.
 {: .notice}
