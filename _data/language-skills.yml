@@ -1,0 +1,11 @@
+- name: Korean
+  percentage: 100
+  color: info # secondary / success / danger / warning / info / light / dark
+
+- name: English
+  percentage: 60
+  color: success
+
+- name: Japanese
+  percentage: 30
+  color: 

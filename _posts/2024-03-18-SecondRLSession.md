@@ -1,14 +1,10 @@
 ---
-title: "[03주차/강화학습 세션] 다이나믹 프로그래밍"
-excerpt: "정책 이터레이션 / 가치 이터레이션" # 미리보기로 보이는 부분
-categories: 24-1강화학습세션
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-03-18
-
+title: "[강화시스터즈 1기] 3주차 세션"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 3주차 강화학습 세션

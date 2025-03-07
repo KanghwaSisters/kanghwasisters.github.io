@@ -1,0 +1,32 @@
+- title: "듀얼 에이전트 방법론으로 해결한 틱택토"
+  year: "세칸승부사(24-2)"
+  dev_tool:
+    - "RL"
+    - "CV"
+    - "Robotics"
+  abstract: "고전적인 학습 전략부터 알파제로까지를 전부 사용해 틱택토를 학습했다. CNC 로봇을 구현해 현실에서 인간과 상호작용할 수 있게 만들었다."
+  github: "https://github.com/KanghwaSisters/24-2-TicTacToe"
+  pdf: "https://raw.githubusercontent.com/Tonnonssi/TicTacToeArtist/main/img/report.pdf"
+  image: "../assets/image/Projects/TicTacToe/realWorld.gif"
+
+- title: "알파제로로 해결한 오목"
+  year: "AiGO(24-2)"
+  dev_tool:
+    - "RL"
+    - "CV"
+    - "Robotics"
+    - "Web"
+  abstract: "알파제로를 기반으로 오목을 두는 모델을 개발했다. 현실에서 인간과 상호작용하기 위해 아두이노로 제어하는 로봇팔을 제작하고 수를 두도록 학습시켰다."
+  github: "https://github.com/KanghwaSisters/24-2-Omok"
+  pdf: "https://raw.githubusercontent.com/Tonnonssi/AiGO/main/img/report.pdf"
+  image: "../assets/image/Projects/Omok/Omok.gif"
+
+- title: "DQN으로 해결한 지뢰찾기"
+  article_link: "./projects/1-minesweeper"
+  year: "24-1"
+  dev_tool:
+    - "RL"
+    - "Web"
+  abstract: "강화학습으로 지뢰찾기 문제를 해결했다. 초급 기준 평균 승률 84% 모델을 학습시켰고 배포를 위한 웹, 지뢰찾기의 이론적 풀이를 진행했다."
+  github: "https://github.com/Tonnonssi/-RL-Minesweeper"
+  image: "../assets/image/Projects/Minesweeper/minesweeper.gif"

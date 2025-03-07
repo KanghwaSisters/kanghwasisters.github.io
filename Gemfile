@@ -1,6 +1,3 @@
 source "https://rubygems.org"
-
-gemspec
-
-# Add or update the uri gem version
-gem 'uri', '0.13.1'
+gem "github-pages", group: :jekyll_plugins
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

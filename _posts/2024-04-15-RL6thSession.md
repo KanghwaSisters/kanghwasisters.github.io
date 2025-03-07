@@ -1,14 +1,10 @@
 ---
-title: "[07주차/강화학습 세션] 협업을 위한 기반 다지기"
-excerpt: "주제 공개, 코딩 컨벤션 정하기, 협업 방식 정하기" # 미리보기로 보이는 부분
-categories: 24-1강화학습세션
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-04-15
-
+title: "[강화시스터즈 1기/07주차/강화학습 세션] 협업 다지기"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 7주차 강화학습 세션

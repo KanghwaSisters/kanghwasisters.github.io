@@ -1,0 +1,41 @@
+@mixin themed($property, $light-value, $dark-value) {
+  [data-theme="light"] & {
+    #{$property}: $light-value;
+  }
+
+  [data-theme="dark"] & {
+    #{$property}: $dark-value;
+  }
+}
+
+#theme-toggler:before {
+  @include themed(content, "🌙", "🌞");
+}
+
+.navbar-themed {
+  .navbar-brand,
+  .navbar-nav .nav-link.active {
+    @include themed(color, $text-black, $text-white);
+  }
+
+  .navbar-nav .nav-link {
+    @include themed(color, rgba($text-black, 0.5), rgba($text-white, 0.5));
+  }
+}
+
+.text-themed {
+  @include themed(color, $text-black, $text-white);
+}
+
+.bg-themed {
+  @include themed(background-color, $light, $dark);
+}
+
+// a {
+//   color: #027bff !important; /* 링크 기본 색상 */
+//   text-decoration: none;
+// }
+
+// a:hover {
+//   color: darken(#027bff, 10%) !important; /* 마우스 오버 시 더 어두운 색 */
+// }

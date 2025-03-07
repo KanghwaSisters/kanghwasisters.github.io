@@ -1,15 +1,10 @@
 ---
-title: "[프로젝트 발표] 지뢰찾기"  
-excerpt: "24-1 활동 마감 및 발표" # 미리보기로 보이는 부분  
-categories: 프로젝트  
-tags: 
-    - [이지민, 이정연, 이승연, 이은나, 김정은, 손주현, 김도희, 변지은, 주민서]  
-toc: true  
-toc_sticky: true  
-comments: true  
-author: Jimin Lee  
-
-date: 2024-07-25
+title: "[강화시스터즈 1기] 프로젝트 발표"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 프로젝트 마감 및 발표 

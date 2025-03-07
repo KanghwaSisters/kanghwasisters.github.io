@@ -1,0 +1,56 @@
+<!-- Collect tags from all posts -->
+{%- assign tags = blank -%}
+{%- for post in site.posts -%}
+  {%- assign post_tags = post.tags | join:'|' | append:'|' -%}
+  {%- if post_tags != '|' -%}
+    {%- assign tags = tags | append:post_tags -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tags = tags | split:'|' | uniq | sort -%}
+
+<br>
+<hr>
+<br>
+
+<!-- Display all tags at the top -->
+<div class="tags-list text-center my-4">
+  <h3>카테고리 목록</h3>
+  <div class="d-flex flex-wrap justify-content-center gap-2" style="max-width: 900px; margin: auto;">
+    {% for tag in tags %}
+      <a href="#{{ tag | slugify }}" 
+         class="badge badge-primary px-2 py-2 text-white text-center"
+         style="display: inline-block; min-width: 80px; max-width: 120px; font-size: 14px; border-radius: 12px; margin: 6px;">
+        {{ tag }}
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<br>
+<hr>
+
+{% include blog/search.html %}
+<br>
+
+<!-- List tags & related posts -->
+{% for tag in tags %}
+<div class="py-3">
+  <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
+  <ol>
+  {%- assign sorted_posts = site.posts | sort: 'date' -%} <!-- Sorting posts by date -->
+  {% for post in sorted_posts %}
+    {%- if post.tags contains tag -%}
+      {%- if post.external_url -%}
+        {%- assign url = post.external_url -%}
+      {%- else -%}
+        {%- assign url = post.url | relative_url -%}
+      {%- endif -%}
+      <a href="{{ url }}"><li>{{ post.title }}</li></a>
+      <small class="text-muted"> - {{ post.date | date_to_long_string }}</small>
+      <br/>
+    {%- endif -%}
+  {% endfor %}
+  </ol>
+</div>
+<hr class="bg-light">
+{% endfor %}

@@ -1,19 +1,11 @@
 ---
-title: "Min-max 알고리즘, 알파-베타 프루닝"
-excerpt: "Min-max 알고리즘, 알파-베타 프루닝"
-categories: 24-2개인발표
-tags: 
-    - [이승연]
-toc: true
-toc_sticky: true
-comments: true
-use_math: true
-author: Seungyeon Lee
-header:
-#   teaser: ../assets/image/Thumbnail/24_2_Presentation.png
-
-date: 2024-09-23
-
+title: "[강화시스터즈 2기] Min-max 알고리즘, 알파-베타 프루닝"
+author: 이승연
+tags: [24-2, 개념정리]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
 
 # Min-Max 알고리즘

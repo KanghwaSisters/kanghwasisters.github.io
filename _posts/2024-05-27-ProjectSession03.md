@@ -1,15 +1,11 @@
 ---
-title: "[10주차-01/프로젝트] 지뢰찾기 agent, env 구현"  
-excerpt: "지뢰찾기 agent, env 구현" # 미리보기로 보이는 부분  
-categories: 프로젝트  
-toc: true  
-toc_sticky: true  
-comments: true  
-author: Jimin Lee  
-date: 2024-05-27
-
+title: "[강화시스터즈 1기/10주차/프로젝트] 지뢰찾기 agent, env 구현"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
-
 # 10주차 - 01 세션
 
 ## 요약 

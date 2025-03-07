@@ -1,0 +1,19 @@
+<a href="{{ include.url }}" target="_blank" style="text-decoration: none; color: black;">
+  <table style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px; width: 100%; cursor: pointer;">
+    <tr>
+      <!-- Row number with larger font and gray color -->
+      <td style="width: 50px; font-weight: bold; font-size: 24px; color: gray; vertical-align: top;">{{ include.num }}</td>
+      <td>
+        <!-- Title -->
+        <h3 style="margin: 0; font-size: 18px; color: black;">{{ include.title }}</h3>
+        <!-- Description -->
+        <p style="margin: 0; color: black;">{{ include.description }}</p>
+        <!-- Language Links -->
+        <div style="margin-top: 10px;">
+          <a href="{{ include.korUrl }}" target="_blank" style="margin-right: 10px; text-decoration: none;">한국어</a>
+          <a href="{{ include.engUrl }}" target="_blank" style="text-decoration: none; ">ENG</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</a>

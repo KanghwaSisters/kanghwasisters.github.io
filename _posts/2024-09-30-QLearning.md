@@ -1,19 +1,11 @@
 ---
-title: "[RL] 온/오프 폴리시와 큐러닝"
-excerpt: "On-policy & off-policy, Q-Learning"
-categories: 24-2개인발표
-tags: 
-    - [이정연]
-toc: true
-toc_sticky: true
-comments: true
-use_math: true
-author: Jungyeon Lee
-header:
-#   teaser: ../assets/image/Thumbnail/24_2_Presentation.png
-
-date: 2024-09-30
-
+title: "[강화시스터즈 2기] 온•오프 폴리쉬와 Q러닝"
+author: 이정연
+tags: [24-2, 개념정리]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
 
 **On/off-Policy & Q-Learning**

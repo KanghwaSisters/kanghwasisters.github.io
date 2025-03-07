@@ -1,10 +1,11 @@
 ---
-title : "시간차, SARSA, 딥 살사"
-Excerpt : "시간차, SARSA, 딥 살사"
-categories: 24-2개인발표
-tags : [장예원]
-Author : Yewon Jang
-Date : 2024-09-30
+title: "[강화시스터즈 2기] 시간차, SARSA, 딥살사"
+author: 장예원
+tags: [24-2,개념정리]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
 # 시간차, SARSA, 딥 살사
 

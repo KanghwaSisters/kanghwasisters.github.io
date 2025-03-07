@@ -1,0 +1,82 @@
+[
+    {
+        "name": "이승연",
+        "english_name": "Seungyeon Lee",
+        "position": "1-3기 활동",
+        "major": "통계학 주전, 경제 복전",
+        "github": "sabina381",
+        "email": "sabina2378@ewhain.net",
+        "image": "SeungyeonLee.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "이은나",
+        "english_name": "Eunna Lee",
+        "position": "1-2기 활동",
+        "major": "통계학 주전, 계산과학 복전",
+        "github": "Eunnaeooi",
+        "email": "len_318@ewha.ac.kr",
+        "image": "EunnaLee.jpeg",
+        "status": "inactive"
+    },
+    {
+        "name": "변지은",
+        "english_name": "Jieun Byeon",
+        "position": "1기 활동",
+        "major": "컴퓨터 공학 주전",
+        "github": "mons-trev",
+        "email": "bje5774@gmail.com",
+        "image": "JieunByeon.jpeg",
+        "status": "inactive"
+    },
+    {
+        "name": "손주현",
+        "english_name": "Juhyun Son",
+        "position": "1기 활동",
+        "major": "컴퓨터 공학 주전",
+        "github": "Juhyuns0n",
+        "email": "juhyunson@ewhain.net",
+        "image": "JuhyunSon.jpeg",
+        "status": "inactive"
+    },
+    {
+        "name": "김도희",
+        "english_name": "DoHee Kim",
+        "position": "1-2기 활동",
+        "major": "통계학 주전, 수학•계산과학 복전",
+        "github": "doheek1m",
+        "email": "ellakelly1222@gmail.com",
+        "image": "DoHeeKim.jpeg",
+        "status": "inactive"
+    },
+    {
+        "name": "김정은",
+        "english_name": "Jungeun Kim",
+        "position": "1기 활동",
+        "major": "화학나노과학 주전",
+        "github": "jung-95",
+        "email": "21jung@ewhain.net",
+        "image": "JungeunKim.jpeg",
+        "status": "inactive"
+    },
+    {
+        "name": "주민서",
+        "english_name": "Minsuh Joo",
+        "position": "1,3기 활동",
+        "major": "인공지능 주전",
+        "github": "juminsuh",
+        "email": "judyjoo21@ewhain.net",
+        "image": "MinsuhJoo.png",
+        "status": "active"
+    },
+    {
+        "name": "이정연",
+        "english_name": "Jungyeon Lee",
+        "position": "1-2기 활동",
+        "major": "인공지능 주전",
+        "github": "LeeJungYeonn",
+        "email": "leejungyeon@ewha.ac.kr",
+        "image": "JungyeonLee.jpeg",
+        "status": "inactive"
+    }
+]

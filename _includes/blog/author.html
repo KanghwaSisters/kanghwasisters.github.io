@@ -1,0 +1,59 @@
+<!-- Collect authors from all posts -->
+{%- assign authors = blank -%}
+{%- for post in site.posts -%}
+  {%- if post.author -%}
+    {%- assign post_authors = post.author | split: ', ' -%} <!-- 다중 작성자 분리 -->
+    {%- for single_author in post_authors -%}
+      {%- assign authors = authors | append: single_author | append: '|' -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign authors = authors | split:'|' | uniq | sort -%}
+
+<br>
+<hr>
+<br>
+
+<!-- Display all authors at the top -->
+<div class="authors-list text-center my-4">
+  <h3>저자 목록</h3>
+  <div class="d-flex flex-wrap justify-content-center gap-2" style="max-width: 900px; margin: auto;">
+    {% for author in authors %}
+      <a href="#{{ author | slugify }}" 
+         class="badge badge-primary px-2 py-2 text-white text-center"
+         style="display: inline-block; min-width: 80px; max-width: 120px; font-size: 14px; border-radius: 12px; margin: 6px;">
+        {{ author }}
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<br>
+<hr>
+
+{% include blog/search.html %}
+<br>
+
+<!-- List authors & related posts -->
+{% for author in authors %}
+<div class="py-3">
+  <h4 id="{{ author | slugify }}">{{ author }}</h4>
+  <ol>
+  {%- assign sorted_posts = site.posts | sort: 'date' -%} <!-- Sorting posts by date -->
+  {% for post in sorted_posts %}
+    {%- assign post_authors = post.author | split: ', ' -%} <!-- 다중 작성자 분리 -->
+    {%- if post_authors contains author -%}
+      {%- if post.external_url -%}
+        {%- assign url = post.external_url -%}
+      {%- else -%}
+        {%- assign url = post.url | relative_url -%}
+      {%- endif -%}
+      <a href="{{ url }}"><li>{{ post.title }}</li></a>
+      <small class="text-muted"> - {{ post.date | date_to_long_string }}</small>
+      <br/>
+    {%- endif -%}
+  {% endfor %}
+  </ol>
+</div>
+<hr class="bg-light">
+{% endfor %}

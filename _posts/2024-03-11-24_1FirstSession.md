@@ -1,14 +1,11 @@
 ---
-title: "[02주차/강화학습 세션] 머신러닝 강화학습 개론"
-excerpt: "02 주차 강화학습 세션" # 미리보기로 보이는 부분
-categories: 24-1강화학습세션
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-03-07
-
+title: "[강화시스터즈 1기] 머신러닝 • 강화학습 개론"
+author: 이지민
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 1주차 강화학습 세션

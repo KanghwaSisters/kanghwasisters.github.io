@@ -1,0 +1,15 @@
+- name: Python
+  percentage: 80
+  color: danger
+
+- name: R
+  percentage: 60
+  color: 
+
+- name: C++
+  percentage: 30
+  color: secondary
+
+- name: html/css/js
+  percentage: 20
+  color: warning # secondary / success / danger / warning / info / light / dark

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "이채연",
+        "english_name": "Chaeyeon Lee",
+        "position": "2기 활동",
+        "major": "문헌정보학 주전, 통계학 복전",
+        "github": "CheayeonLee",
+        "email": "emilylcy0917@gmail.com",
+        "image": "ChaeyeonLee.jpg",
+        "status": "inactive"
+    },
+    {
+        "name": "장예원",
+        "english_name": "Yewon Jang",
+        "position": "2-3기 활동",
+        "major": "통계학 주전, 경영학 복전",
+        "github": "grace0039",
+        "email": "grace0039@naver.com",
+        "image": "YewonJang.jpg",
+        "status": "active"
+    },
+    {
+        "name": "김현서",
+        "english_name": "Hyunseo Kim",
+        "position": "로보틱스 담당, 2기 활동",
+        "major": "휴먼기계바이오공학과 전공",
+        "github": "HyunseoKim812",
+        "email": "rlagustj812@gmail.com",
+        "image": "HyunseoKim.jpg",
+        "status": "inactive"
+    },
+    {
+        "name": "안서연",
+        "english_name": "Seoyeon Ahn",
+        "position": "2-3기 활동",
+        "major": "컴퓨터공학 주전, 생명과학 복전",
+        "github": "sy-mwish",
+        "email": "aliceasy504@gmail.com",
+        "image": "SeoyeonAhn.jpg",
+        "status": "active"
+    }
+]

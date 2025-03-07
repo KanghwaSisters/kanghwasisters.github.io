@@ -1,0 +1,54 @@
+.publications-list {
+    margin: 0;
+    padding: 0;
+  }
+.publication {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 20px;
+    max-width: 600px;
+    font-family: Arial, sans-serif;
+  }
+.badge {
+    background-color: #af40ff;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+.title {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+.authors {
+    font-size: 14px;
+    color: #555;
+  }
+.source {
+    font-size: 14px;
+    font-style: italic;
+    color: #777;
+  }
+.links a {
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 8px 12px;
+    background-color: #ccc;
+    color: black;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+.links a:hover {
+    background-color: #999;
+  }
+.scholar {
+    margin-top: 10px;
+  }
+.scholar img {
+    height: 20px;
+  }
+.scholar-count {
+    vertical-align: middle;
+    margin-left: 5px;
+    font-size: 14px;
+  }

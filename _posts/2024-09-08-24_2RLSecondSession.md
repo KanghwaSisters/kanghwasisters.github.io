@@ -1,18 +1,12 @@
 ---
-title: "[02주차 / 강화학습세션] 강화학습 개론, 협업에 대하여, MDP"
-excerpt: "MDP, Git, Github, Basic RL" 
-categories: 24-2메인세션
-toc: true
-toc_sticky: true
-comments: true
-use_math: true
-author: Jimin Lee
-header:
-  # teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
-
-date: 2024-09-08
-
+title: "[강화시스터즈 2기/02주차/강화학습세션] 강화학습 개론, 협업에 대하여, MDP"
+tags: [24-2]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
+
 # 2주차 강화학습 세션
 
 ## 요약

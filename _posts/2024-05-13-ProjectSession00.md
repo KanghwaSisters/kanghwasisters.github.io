@@ -1,14 +1,10 @@
 ---
-title: "[08주차/강화학습 세션/프로젝트intro] 슬롯머신 문제-DQN으로 구현"
-excerpt: "슬롯머신 문제,DQN" # 미리보기로 보이는 부분
-categories: 24-1강화학습세션
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-05-13
-
+title: "[강화시스터즈 1기/08주차/프로젝트] 슬롯머신 문제 - DQN으로 구현"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 8주차 세션

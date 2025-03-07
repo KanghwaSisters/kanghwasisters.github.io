@@ -1,0 +1,52 @@
+<div class="project-list">
+  {% for project in include.source %}
+  
+  {% if project.article_link %}
+  <a href="{{ project.article_link }}" style="text-decoration: none; color: inherit; display: block;">
+  {% endif %}
+
+    <div class="project" style="position: relative; display: flex; flex-direction: row; padding: 20px; border: 1px solid #ccc; margin-bottom: 20px; cursor: {% if project.article_link %}pointer{% else %}default{% endif %}; align-items: center;">
+
+      <!-- 프로젝트 이미지 (왼쪽 정렬, 150px) -->
+      {% if project.image %}
+      <div style="height: auto; width: 150px; border: 1px solid #000; text-align: center; display: flex; align-items: center; justify-content: center; margin-right: 20px;">
+        <img src="{{ project.image }}" alt="Project Image" style="max-width: 100%; max-height: 100%;">
+      </div>
+      {% endif %}
+
+      <!-- 프로젝트 제목 및 기본 정보 -->
+      <div style="flex: 1;">
+        <h6 class="title" style="font-size: 1.5em; margin-bottom: 10px;">{{ project.title }}</h6>
+        <p class="authors" style="margin-bottom: 10px;">
+          {% for dev_tool in project.dev_tool %}
+            <strong>{{ dev_tool }}</strong>{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </p>
+        <p>{{ project.description }}</p>
+
+        <!-- Abstract (항상 표시, 회색 글씨) -->
+        <p style="color: gray; font-size: 0.9em; margin-top: 10px;">{{ project.abstract }}</p>
+
+        &nbsp;
+        {% if project.github %}
+          <a href="{{ project.github }}" class="pdf-button" style="text-decoration: none; color: #027bff;">Github</a>
+        {% endif %}
+        &nbsp;
+        {% if project.pdf %}
+          <a href="{{ project.pdf }}" class="pdf-button" style="text-decoration: none; color: #027bff;">PDF</a>
+        {% endif %}
+      </div>
+
+      <!-- 연도 위치 조정 -->
+      <div class="year" style="position: absolute; bottom: 10px; right: 20px; font-size: 30px; font-weight: bold; color: rgba(0, 0, 0, 0.05); pointer-events: none;">
+        {{ project.year }}
+      </div>
+
+    </div>
+
+  {% if project.article_link %}
+  </a>
+  {% endif %}
+
+  {% endfor %}
+</div>

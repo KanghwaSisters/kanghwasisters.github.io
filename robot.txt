@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https:/kanghwasisters.github.io/sitemap.xml

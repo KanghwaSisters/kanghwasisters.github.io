@@ -1,15 +1,13 @@
 ---
-title: "[24-1 Project] 지뢰찾기 대회"
-excerpt: "1기 프로젝트 주제 : 지뢰찾기 Agent, Env 구현" # 미리보기로 보이는 부분
-categories: 프로젝트
-toc: true
-toc_sticky: true
-comments: true
-author: Seungyeon Lee
-
-date: 2024-04-24
-
+title: "[강화시스터즈 1기/대회] 지뢰찾기 대회"
+author: 이지민
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
+
 ## 강화시스터즈 1기 프로젝트 주제 : 지뢰찾기 
 강화시스터즈 1기에서 중장기 프로젝트, **RL로 해결하는 지뢰찾기**를 진행합니다!  
 

@@ -1,0 +1,12 @@
+  - title: "🇰🇷 Solve Gomoku with AlphaZero"
+    authors: 
+      - "Jimin Lee"
+      - "Team AiGO"
+    category: 
+    source: " "
+    presented_at: "KangHwaSisters In Club Conference"
+    abstract: "This research aims to enable a dual-agent Gomoku game where a human and an AI agent interact in real life through a 4-degree-of-freedom (4-DOF) robotic arm equipped with a suction-based end-effector. The AI agent is trained using the AlphaZero methodology, leveraging forward and inverse kinematics for robotic arm control. To enhance the performance of the Gomoku agent, data augmentation, neural network diversity, and noise-driven exploration were incorporated into the training process. The developed agent, trained in a 9×9 board environment, demonstrates an average step count exceeding 25 moves per game."
+    year: 2024
+    links:
+      - html: "https://github.com/KanghwaSisters/24-2-Omok.git"
+      - pdf: "https://raw.githubusercontent.com/Tonnonssi/AiGO/main/img/report.pdf"

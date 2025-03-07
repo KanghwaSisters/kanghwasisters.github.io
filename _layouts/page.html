@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="col-lg-10 mx-auto mt-5 markdown-body">
+  {{ content }}
+</div>
+
+<script src="https://utteranc.es/client.js"
+        repo="tonnonssi/tonnonssi.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<script>
+  const btnKo = document.getElementById("toggle-ko");
+  const btnEn = document.getElementById("toggle-en");
+  const contentKo = document.getElementById("content-ko");
+  const contentEn = document.getElementById("content-en");
+
+  // Set initial state to show Korean content by default
+  contentKo.style.display = "block";
+  contentEn.style.display = "none";
+  btnKo.style.display = "inline-block";
+  btnEn.style.display = "none";
+
+  // Event listeners to toggle language
+  btnKo.addEventListener("click", () => {
+    contentKo.style.display = "none";
+    contentEn.style.display = "block";
+    btnKo.style.display = "none";
+    btnEn.style.display = "inline-block";
+  });
+
+  btnEn.addEventListener("click", () => {
+    contentKo.style.display = "block";
+    contentEn.style.display = "none";
+    btnKo.style.display = "inline-block";
+    btnEn.style.display = "none";
+  });
+</script>
+
+<style>
+  .language-toggle {
+    display: flex;
+    justify-content: flex-end; /* Align buttons to the right */
+    gap: 8px; /* Space between buttons */
+    margin-top: 10px; /* Optional: Adjust spacing from the top */
+  }
+
+  .styled-button {
+    background-color: transparent; /* Transparent background */
+    color: #000000; /* Black text color */
+    border: 2px solid #000000; /* Black border */
+    padding: 8px 20px; /* Adjust padding for size */
+    font-size: 16px; /* Adjust font size */
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effect */
+  }
+
+  .styled-button:hover {
+    background-color: #000000; /* Black background on hover */
+    color: #fff; /* White text on hover */
+  }
+</style>

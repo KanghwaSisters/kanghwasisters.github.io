@@ -1,15 +1,12 @@
 ---
-title: "[24-1 / 1기] 활동 수기"
-excerpt: "1기 멤버 활동 수기" # 미리보기로 보이는 부분
-categories: 아카이브
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-07-25
-
+title: "[강화시스터즈 1기/] 활동수기"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
+
 ## 24-1 1기 멤버들의 활동 수기
 
 ![img]({{ site.baseurl }}/assets/image/Articles/2024-1/IMG_0829.jpg) 

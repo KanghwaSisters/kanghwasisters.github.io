@@ -1,0 +1,42 @@
+[
+    {
+        "name": "이지민",
+        "english_name": "Jimin Lee",
+        "position": "동아리 설립자, 1-3기 운영진",
+        "major": "통계학 주전, 계산과학 복전",
+        "github": "Tonnonssi",
+        "email": "tonnonssi@gmail.com",
+        "image": "JiminLee.jpg",
+        "status": "active"
+    },
+    {
+        "name": "이승연",
+        "english_name": "Seungyeon Lee",
+        "position": "1-3기 운영진",
+        "major": "통계학 주전, 경제 복전",
+        "github": "sabina381",
+        "email": "sabina2378@ewhain.net",
+        "image": "SeungyeonLee.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "장예원",
+        "english_name": "Yewon Jang",
+        "position": "3기 01세션 운영진",
+        "major": "통계학 주전, 경영학 복전",
+        "github": "grace0039",
+        "email": "grace0039@naver.com",
+        "image": "YewonJang.jpg",
+        "status": "active"
+    }, 
+    {
+        "name": "부혜민",
+        "english_name": "Hyemin Boo",
+        "position": "3기 02세션 운영진",
+        "major": "인공지능 주전",
+        "github": "hyeminboo",
+        "email": "hyeminb@ewha.ac.kr",
+        "image": "hyeminboo.jpg",
+        "status": "active"
+        }
+]

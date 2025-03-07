@@ -1,14 +1,10 @@
 ---
-title: "[02주차/추가 딥러닝 세션] 신경망 기초 및 구현 활동"
-excerpt: 신경망의 기본 구조와 섞인 개고양이 라벨 문제 구현 # 미리보기로 보이는 부분
-categories: 24-1딥러닝스터디
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-03-11
-
+title: "[강화시스터즈 1기] 기초 신경망 이론 및 구현"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 # 1주차 추가 세션
 

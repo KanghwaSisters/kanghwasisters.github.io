@@ -1,15 +1,12 @@
 ---
-title: "[03주차/추가 딥러닝 세션] 딥러닝의 연산, 학습 평가, pytorch"
-excerpt: pytorch와 class # 미리보기로 보이는 부분
-categories: 24-1딥러닝스터디
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-03-21
-
+title: "[강화시스터즈 1기] 딥러닝 연산, 학습 평가, 파이토치"
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
+
 # 3주차 추가 세션
 
 ## 요약

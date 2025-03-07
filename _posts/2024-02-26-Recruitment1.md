@@ -1,16 +1,13 @@
 ---
 title: "[강화시스터즈 1기] 모집공고"
-excerpt: 강화시스터즈 1기를 모집합니다! # 미리보기로 보이는 부분
-categories: 기타
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-
-date: 2024-02-26
-
+tags: [24-1]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
-![image]({{ site.baseurl }}/assets/image/main/RE1.PNG)
+
+![image](../assets/image/main/RE1.PNG)
 
 ## 강화 시스터즈를 소개합니다!
 

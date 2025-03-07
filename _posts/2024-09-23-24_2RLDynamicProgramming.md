@@ -1,11 +1,11 @@
 ---
-title : "다이나믹 프로그래밍"
-Excerpt : "정책 이터레이션, 가치 이터레이션"
-categories: 24-2개인발표
-tags : [안서연]
-Author : Seoyeon Ahn
-Date : 2024-09-23
-
+title: "[강화시스터즈 2기] 다이나믹 프로그래밍"
+author: 안서연
+tags: [24-2, 개념정리]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
 
 # 다이나믹 프로그래밍

@@ -1,10 +1,11 @@
 ---
-title: "다이나믹 프로그래밍"
-categories: 개념정리
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
+title: "[강화시스터즈 1기] 다이나믹 프로그래밍"
+author: 이지민
+tags: [24-1, 개념정리]
+pages: papers
+style: border  # fill / border 
+color: dark
+description: " "
 ---
 
 # 다이나믹 프로그래밍에 대하여,

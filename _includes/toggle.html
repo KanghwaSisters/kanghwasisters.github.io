@@ -1,0 +1,17 @@
+<!-- _includes/toggle.html -->
+
+<a href="javascript:void(0);" onclick="toggleAbstract({{ include.index }})" class="abs-button">{{ include.title }}</a>
+<div id="abstract-{{ include.index }}" style="display:none;">
+  <p>{{ include.abstract }}</p>
+</div>
+
+<script>
+    function toggleAbstract(index) {
+      var abstract = document.getElementById('abstract-' + index);
+      if (abstract.style.display === 'none') {
+        abstract.style.display = 'block';
+      } else {
+        abstract.style.display = 'none';
+      }
+    }
+  </script>

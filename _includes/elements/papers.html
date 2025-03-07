@@ -1,0 +1,48 @@
+<div class="publications-list">
+  {% assign current_year = "" %}
+  {% for pub in site.data.publication %}
+    {% if pub.year != current_year %}
+      {% assign current_year = pub.year %}
+      <h5 style="font-size: 2em; margin-top: 40px; solid #ccc; padding-bottom: 10px;">{{ current_year }}</h5>
+    {% endif %}
+    <div class="publication" style="position: relative; padding: 20px; border: 1px solid #ccc; margin-bottom: 20px;">
+      <h6 class="title" style="font-size: 1.5em; margin-bottom: 10px;">{{ pub.title }}</h6>
+      <p class="authors" style="margin-bottom: 10px;">
+        {% for author in pub.authors %}
+          <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      </p>
+      <p class="source" style="font-style: italic; margin-bottom: 10px;">{{ pub.source }}</p>
+      <p class="presented-at" style="margin-bottom: 10px;">{{ pub.presented_at }}</p>
+      <div class="links" style="margin-bottom: 10px;">
+        <a href="javascript:void(0);" onclick="toggleAbstract({{ forloop.index }})" class="abs-button" style="text-decoration: none; color:  #027bff;">Abstract</a>
+        <div id="abstract-{{ forloop.index }}" style="display:none; margin-top: 10px;">
+          <p>{{ pub.abstract }}</p>
+        </div>
+        &nbsp;
+        {% if pub.links[0].html %}
+          <a href="{{ pub.links[0].html }}" class="html-button" style="text-decoration: none; color:  #027bff;">Link</a>
+        {% endif %}
+        &nbsp; 
+        {% if pub.links[1].pdf %}
+          <a href="{{ pub.links[1].pdf }}" class="pdf-button" style="text-decoration: none; color:  #027bff;">PDF</a>
+        {% endif %}
+      </div>
+      <div class="year" style="position: absolute; bottom: 0; right: 20px; font-size: 30px; font-weight: bold; color: rgba(0, 0, 0, 0.05); z-index: 0; pointer-events: none;">
+        {{ pub.year }}
+      </div>
+    </div>
+    <hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
+  {% endfor %}
+</div>
+
+<script>
+function toggleAbstract(index) {
+  var abstract = document.getElementById('abstract-' + index);
+  if (abstract.style.display === 'none') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>

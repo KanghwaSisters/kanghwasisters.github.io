@@ -1,19 +1,13 @@
 ---
-title: "[GitHub/Git] 기초 깃 사용법"
-excerpt: "Push, Pull, Merge, Merge Conflict, fork"
-categories: 24-2개인발표
-tags: 
-    - [이지민]
-toc: true
-toc_sticky: true
-comments: true
-author: Jimin Lee
-header:
-  # teaser: ../assets/image/Thumbnail/24_2_Presentation.png
-
-date: 2024-09-02
-
+title: "[강화시스터즈 2기] 기초 깃허브 사용법"
+author: 이지민
+tags: [24-2, 개념정리]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
+
 이 자료는 동아리 활동 전반에 걸친 과제 제출 및 하반기 협업을 위해 마련되었습니다.  
 대략적인 기초 깃/깃허브의 기능을 파악하는 것을 목표로 하며, 단계 별 사용법은 되어 있지 않습니다.  
 구체적인 사용법은 **하단의 레퍼런스 링크들 + 카톡방의 자료 + 인터넷 검색**을 이용해 주세요.

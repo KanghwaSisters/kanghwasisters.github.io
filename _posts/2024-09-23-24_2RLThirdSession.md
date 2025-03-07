@@ -1,19 +1,10 @@
 ---
-title: "[03주차 / 강화학습세션] 다이나믹 프로그래밍, min-max, alpha-beta"
-excerpt: "정책 이터레이션, 가치 이터레이션, 듀얼 플레이어 게임 트리" 
-categories: 24-2메인세션
-tags: 
-    - [이지민]
-toc: true
-toc_sticky: true
-comments: true
-use_math: true
-author: Jimin Lee  
-header:
-  # teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
-
-date: 2024-09-23
-
+title: "[강화시스터즈 2기/03주차/강화학습세션] 다이나믹 프로그래밍, min-max, alpha-beta"
+tags: [24-2]
+pages: papers
+style: fill  # fill / border 
+color: dark
+description: " "
 ---
 
 # 3주차 강화학습 세션
