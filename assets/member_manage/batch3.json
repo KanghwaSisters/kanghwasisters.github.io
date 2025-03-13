@@ -1,12 +1,72 @@
 [
     {
+        "name": "최상아",
+        "english_name": "ShangA Choi",
+        "position": "3기 활동; 01세션",
+        "major": "컴퓨터공학과 주전",
+        "github": "jj8ng",
+        "email": "sowcelco@gmail.com",
+        "image": "ShangAChoi.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "한사랑",
+        "english_name": "Sarang Han",
+        "position": "3기 활동; 01세션",
+        "major": "컴퓨터공학 주전",
+        "github": "Sarang-Han",
+        "email": "hangpfm0518@ewhain.net",
+        "image": "saranghan.jpeg",
+        "status": "active"
+    },
+    {
     "name": "부혜민",
     "english_name": "Hyemin Boo",
-    "position": "3기 활동",
+    "position": "3기 활동; 02세션",
     "major": "인공지능 주전",
     "github": "hyeminboo",
     "email": "hyeminb@ewha.ac.kr",
     "image": "hyeminboo.jpg",
     "status": "active"
-    }
+    },
+    {
+        "name": "김조아",
+        "english_name": "Joa Kim",
+        "position": "3기 활동; 02세션",
+        "major": "전자전기 주전, 전공특화솦웨 복전",
+        "github": "hellojoa1202",
+        "email": "hellojoa1202@naver.com",
+        "image": "JoaKim.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "이명진",
+        "english_name": "Myungjin Lee",
+        "position": "3기 활동; 02세션",
+        "major": "인공지능학과",
+        "github": "myjinlee",
+        "email": "lmjin@ewha.ac.kr",
+        "image": "MyungjinLee.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "이지연",
+        "english_name": "Jiyeon Lee",
+        "position": "3기 활동; 02 세션",
+        "major": "전자전기공학",
+        "github": "dlwldus0227",
+        "email": "jayde0227@ewha.ac.kr",
+        "image": "JiyeonLee.jpeg",
+        "status": "active"
+    },
+    {
+        "name": "이수미",
+        "english_name": "Soomi Lee",
+        "position": "3기 활동; 03세션",
+        "major": "통계학 주전, 소프트웨어 복전",
+        "github": "SooMiiii",
+        "email": "smlee010303@gmail.com",
+        "image": "SooMiiii.jpeg",
+        "status": "active"
+    }    
 ]

@@ -98,7 +98,7 @@ if __name__ == "__main__":
     html += "<br><br><br>"
     html += generate_member_table(2, '24-2', batch2)
     html += "<br><br><br>"
-    # html += generate_member_table(3, '25-1', batch3)
+    html += generate_member_table(3, '25-1', batch3)
 
     with open("/Users/ijimin/kanghwasisters.github.io/pages/members.md", "w", encoding="utf-8") as file:
         file.write(html)

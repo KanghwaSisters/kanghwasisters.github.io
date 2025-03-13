@@ -198,7 +198,7 @@ permalink: /member/
 </a>
 </td>
 </tr><tr><td style="background-color:white;">
-<img src="../assets/image/members/MinsuhJoo.png" width=150/>
+<img src="../assets/image/members/MinsuhJoo.jpeg" width=150/>
 </td>
 <td style="background-color:white;">
 <b style="font-size:15px">주민서 (Minsuh Joo)</b> <hr>
@@ -303,3 +303,125 @@ permalink: /member/
 </a>
 </td>
 </tr><tr></tr></table>  <br><br><br>
+<h4>📕 3기 (25-1)</h4>
+<table style="width: 80%; border-collapse: collapse; table-layout: fixed;">
+<tr><td style="background-color:white;">
+<img src="../assets/image/members/ShangAChoi.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">최상아 (ShangA Choi)</b> <hr>
+3기 활동; 01세션 <br>
+컴퓨터공학과 주전 <br><br>
+<a href="https://github.com/jj8ng">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:sowcelco@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#최상아"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+<td style="background-color:white;">
+<img src="../assets/image/members/saranghan.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">한사랑 (Sarang Han)</b> <hr>
+3기 활동; 01세션 <br>
+컴퓨터공학 주전 <br><br>
+<a href="https://github.com/Sarang-Han">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:hangpfm0518@ewhain.net">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#한사랑"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+</tr><tr><td style="background-color:white;">
+<img src="../assets/image/members/hyeminboo.jpg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">부혜민 (Hyemin Boo)</b> <hr>
+3기 활동; 02세션 <br>
+인공지능 주전 <br><br>
+<a href="https://github.com/hyeminboo">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:hyeminb@ewha.ac.kr">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#부혜민"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+<td style="background-color:white;">
+<img src="../assets/image/members/JoaKim.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">김조아 (Joa Kim)</b> <hr>
+3기 활동; 02세션 <br>
+전자전기 주전, 전공특화솦웨 복전 <br><br>
+<a href="https://github.com/hellojoa1202">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:hellojoa1202@naver.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#김조아"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+</tr><tr><td style="background-color:white;">
+<img src="../assets/image/members/MyungjinLee.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">이명진 (Myungjin Lee)</b> <hr>
+3기 활동; 02세션 <br>
+인공지능학과 <br><br>
+<a href="https://github.com/myjinlee">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:lmjin@ewha.ac.kr">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#이명진"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+<td style="background-color:white;">
+<img src="../assets/image/members/JiyeonLee.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">이지연 (Jiyeon Lee)</b> <hr>
+3기 활동; 02 세션 <br>
+전자전기공학 <br><br>
+<a href="https://github.com/dlwldus0227">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:jayde0227@ewha.ac.kr">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#이지연"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+</tr><tr><td style="background-color:white;">
+<img src="../assets/image/members/SooMiiii.jpeg" width=150/>
+</td>
+<td style="background-color:white;">
+<b style="font-size:15px">이수미 (Soomi Lee)</b> <hr>
+3기 활동; 03세션 <br>
+통계학 주전, 소프트웨어 복전 <br><br>
+<a href="https://github.com/SooMiiii">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:smlee010303@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="/blog/author#이수미"> 
+<img src="../assets/image/etc/tag.png" width=18/>
+</a>
+</td>
+</tr></table>  
