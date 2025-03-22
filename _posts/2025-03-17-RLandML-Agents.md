@@ -4,7 +4,7 @@ tags: [25-1, 개념정리]
 style: fill  
 color: success
 description: " "
-external_url: https://www.notion.so/booya/ML-Agents-1b6357dcf20f8052993af911bc03de8d?pvs=4
+external_url: https://booya.notion.site/ML-Agents-1b6357dcf20f8052993af911bc03de8d
 author: "부혜민"
 ---
-[https://www.notion.so/booya/ML-Agents-1b6357dcf20f8052993af911bc03de8d?pvs=4](https://www.notion.so/booya/ML-Agents-1b6357dcf20f8052993af911bc03de8d?pvs=4)
+[https://booya.notion.site/ML-Agents-1b6357dcf20f8052993af911bc03de8d](https://booya.notion.site/ML-Agents-1b6357dcf20f8052993af911bc03de8d)
