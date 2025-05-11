@@ -75,24 +75,7 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-<td style="background-color:white;">
-<img src="../assets/image/members/hyeminboo.jpg" width=150/>
-</td>
-<td style="background-color:white;">
-<b style="font-size:15px">부혜민 (Hyemin Boo)</b> <hr>
-3기 02세션 운영진 <br>
-인공지능 주전 <br><br>
-<a href="https://github.com/hyeminboo">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:hyeminb@ewha.ac.kr">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="/blog/author#부혜민"> 
-<img src="../assets/image/etc/tag.png" width=18/>
-</a>
-</td>
-</tr><tr></tr></table>  <br><br><br>
+</tr></table>  <br><br><br>
 <h4>📕 1기 (24-1)</h4>
 <table style="width: 80%; border-collapse: collapse; table-layout: fixed;">
 <tr><td style="background-color:white;">
@@ -197,10 +180,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-</tr><tr><td style="background-color:white;">
+</tr><tr><td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/MinsuhJoo.jpeg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">주민서 (Minsuh Joo)</b> <hr>
 1,3기 활동 <br>
 인공지능 주전 <br><br>
@@ -285,10 +268,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/SeoyeonAhn.jpg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">안서연 (Seoyeon Ahn)</b> <hr>
 2-3기 활동 <br>
 컴퓨터공학 주전, 생명과학 복전 <br><br>
@@ -336,74 +319,6 @@ permalink: /member/
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="/blog/author#한사랑"> 
-<img src="../assets/image/etc/tag.png" width=18/>
-</a>
-</td>
-</tr><tr><td style="background-color:white;">
-<img src="../assets/image/members/hyeminboo.jpg" width=150/>
-</td>
-<td style="background-color:white;">
-<b style="font-size:15px">부혜민 (Hyemin Boo)</b> <hr>
-3기 활동; 02세션 <br>
-인공지능 주전 <br><br>
-<a href="https://github.com/hyeminboo">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:hyeminb@ewha.ac.kr">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="/blog/author#부혜민"> 
-<img src="../assets/image/etc/tag.png" width=18/>
-</a>
-</td>
-<td style="background-color:white;">
-<img src="../assets/image/members/JoaKim.jpeg" width=150/>
-</td>
-<td style="background-color:white;">
-<b style="font-size:15px">김조아 (Joa Kim)</b> <hr>
-3기 활동; 02세션 <br>
-전자전기 주전, 전공특화솦웨 복전 <br><br>
-<a href="https://github.com/hellojoa1202">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:hellojoa1202@naver.com">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="/blog/author#김조아"> 
-<img src="../assets/image/etc/tag.png" width=18/>
-</a>
-</td>
-</tr><tr><td style="background-color:white;">
-<img src="../assets/image/members/MyungjinLee.jpeg" width=150/>
-</td>
-<td style="background-color:white;">
-<b style="font-size:15px">이명진 (Myungjin Lee)</b> <hr>
-3기 활동; 02세션 <br>
-인공지능학과 <br><br>
-<a href="https://github.com/myjinlee">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:lmjin@ewha.ac.kr">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="/blog/author#이명진"> 
-<img src="../assets/image/etc/tag.png" width=18/>
-</a>
-</td>
-<td style="background-color:white;">
-<img src="../assets/image/members/JiyeonLee.jpeg" width=150/>
-</td>
-<td style="background-color:white;">
-<b style="font-size:15px">이지연 (Jiyeon Lee)</b> <hr>
-3기 활동; 02 세션 <br>
-전자전기공학 <br><br>
-<a href="https://github.com/dlwldus0227">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:jayde0227@ewha.ac.kr">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="/blog/author#이지연"> 
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>

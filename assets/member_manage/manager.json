@@ -28,15 +28,5 @@
         "email": "grace0039@naver.com",
         "image": "YewonJang.jpg",
         "status": "active"
-    }, 
-    {
-        "name": "부혜민",
-        "english_name": "Hyemin Boo",
-        "position": "3기 02세션 운영진",
-        "major": "인공지능 주전",
-        "github": "hyeminboo",
-        "email": "hyeminb@ewha.ac.kr",
-        "image": "hyeminboo.jpg",
-        "status": "active"
-        }
+    }
 ]
