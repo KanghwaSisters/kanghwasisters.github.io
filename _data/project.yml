@@ -5,6 +5,8 @@
     - "RL"
   abstract: "PPO 알고리즘을 이용해 평균 수익률 6.5%, Sharpe Ratio 0.8, 최대 낙폭 -12%, 승률 48% 모델을 개발했다."
   github: "https://github.com/KanghwaSisters/YOLO-Futures.git"
+  report: "../assets/image/Projects/theFutures/theFutures_Report.pdf"
+  ppt: "../assets/image/Projects/theFutures/theFutures_PPT.pdf"
   image: "../assets/image/Thumbnail/theFutures.jpg"
 
 - title: "DQN으로 해결한 2048"
@@ -15,6 +17,9 @@
     - "App"
   abstract: "DQN, Double-DQN, Dueling DQN, PER Memory를 이용해 2048 에이전트와 모델의 플레이를 시각적으로 확인할 수 있는 데모 앱을 개발했다."
   github: "https://github.com/KanghwaSisters/25-2-2048.git"
+  report: "../assets/image/Projects/2048/report_2048.pdf"
+  ppt: "../assets/image/Projects/2048/ppt_2048.pdf"
+  app: "https://2048-rl-project.vercel.app/"
   image: "../assets/image/Projects/2048/play.gif"
 
 
@@ -26,7 +31,7 @@
     - "Robotics"
   abstract: "고전적인 학습 전략부터 알파제로까지를 전부 사용해 틱택토를 학습했다. CNC 로봇을 구현해 현실에서 인간과 상호작용할 수 있게 만들었다."
   github: "https://github.com/KanghwaSisters/24-2-TicTacToe"
-  pdf: "https://raw.githubusercontent.com/Tonnonssi/TicTacToeArtist/main/img/report.pdf"
+  report: "https://raw.githubusercontent.com/Tonnonssi/TicTacToeArtist/main/img/report.pdf"
   image: "../assets/image/Projects/TicTacToe/realWorld.gif"
 
 - title: "알파제로로 해결한 오목"
@@ -38,7 +43,7 @@
     - "Web"
   abstract: "알파제로를 기반으로 오목을 두는 모델을 개발했다. 현실에서 인간과 상호작용하기 위해 아두이노로 제어하는 로봇팔을 제작하고 수를 두도록 학습시켰다."
   github: "https://github.com/KanghwaSisters/24-2-Omok"
-  pdf: "https://raw.githubusercontent.com/Tonnonssi/AiGO/main/img/report.pdf"
+  report: "https://raw.githubusercontent.com/Tonnonssi/AiGO/main/img/report.pdf"
   image: "../assets/image/Projects/Omok/Omok.gif"
 
 - title: "DQN으로 해결한 지뢰찾기"
