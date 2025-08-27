@@ -1,3 +1,23 @@
+- title: "PPO로 개발한 선물 트레이더"
+  article_link: "./projects/5-theFutures"
+  year: "25-1"
+  dev_tool:
+    - "RL"
+  abstract: "PPO 알고리즘을 이용해 평균 수익률 6.5%, Sharpe Ratio 0.8, 최대 낙폭 -12%, 승률 48% 모델을 개발했다."
+  github: "https://github.com/KanghwaSisters/YOLO-Futures.git"
+  image: "../assets/image/Thumbnail/theFutures.jpg"
+
+- title: "DQN으로 해결한 2048"
+  article_link: "./projects/4-2048"
+  year: "25-1"
+  dev_tool:
+    - "RL"
+    - "App"
+  abstract: "DQN, Double-DQN, Dueling DQN, PER Memory를 이용해 2048 에이전트와 모델의 플레이를 시각적으로 확인할 수 있는 데모 앱을 개발했다."
+  github: "https://github.com/KanghwaSisters/25-2-2048.git"
+  image: "../assets/image/Projects/2048/play.gif"
+
+
 - title: "듀얼 에이전트 방법론으로 해결한 틱택토"
   year: "세칸승부사(24-2)"
   dev_tool:
@@ -30,3 +50,4 @@
   abstract: "강화학습으로 지뢰찾기 문제를 해결했다. 초급 기준 평균 승률 84% 모델을 학습시켰고 배포를 위한 웹, 지뢰찾기의 이론적 풀이를 진행했다."
   github: "https://github.com/Tonnonssi/-RL-Minesweeper"
   image: "../assets/image/Projects/Minesweeper/minesweeper.gif"
+
