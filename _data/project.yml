@@ -1,5 +1,5 @@
 - title: "PPO로 개발한 선물 트레이더"
-  article_link: "./projects/5-theFutures"
+  article_link: "https://kanghwasisters.github.io/blog/theFutures"
   year: "25-1"
   dev_tool:
     - "RL"
@@ -10,7 +10,7 @@
   image: "../assets/image/Thumbnail/theFutures.jpg"
 
 - title: "DQN으로 해결한 2048"
-  article_link: "./projects/4-2048"
+  article_link: "https://kanghwasisters.github.io/blog/2048"
   year: "25-1"
   dev_tool:
     - "RL"
