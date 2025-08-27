@@ -41,10 +41,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/SeungyeonLee.jpeg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">이승연 (Seungyeon Lee)</b> <hr>
 1-3기 운영진 <br>
 통계학 주전, 경제 복전 <br><br>
@@ -58,10 +58,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-</tr><tr><td style="background-color:white;">
+</tr><tr><td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/YewonJang.jpg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">장예원 (Yewon Jang)</b> <hr>
 3기 01세션 운영진 <br>
 통계학 주전, 경영학 복전 <br><br>
@@ -78,10 +78,10 @@ permalink: /member/
 </tr></table>  <br><br><br>
 <h4>📕 1기 (24-1)</h4>
 <table style="width: 80%; border-collapse: collapse; table-layout: fixed;">
-<tr><td style="background-color:white;">
+<tr><td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/SeungyeonLee.jpeg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">이승연 (Seungyeon Lee)</b> <hr>
 1-3기 활동 <br>
 통계학 주전, 경제 복전 <br><br>
@@ -234,10 +234,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/YewonJang.jpg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">장예원 (Yewon Jang)</b> <hr>
 2-3기 활동 <br>
 통계학 주전, 경영학 복전 <br><br>
@@ -288,10 +288,10 @@ permalink: /member/
 </tr><tr></tr></table>  <br><br><br>
 <h4>📕 3기 (25-1)</h4>
 <table style="width: 80%; border-collapse: collapse; table-layout: fixed;">
-<tr><td style="background-color:white;">
+<tr><td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/ShangAChoi.jpeg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">최상아 (ShangA Choi)</b> <hr>
 3기 활동; 01세션 <br>
 컴퓨터공학과 주전 <br><br>
@@ -322,10 +322,10 @@ permalink: /member/
 <img src="../assets/image/etc/tag.png" width=18/>
 </a>
 </td>
-</tr><tr><td style="background-color:white;">
+</tr><tr><td style="background-color:#f1f3f5;">
 <img src="../assets/image/members/SooMiiii.jpeg" width=150/>
 </td>
-<td style="background-color:white;">
+<td style="background-color:#f1f3f5;">
 <b style="font-size:15px">이수미 (Soomi Lee)</b> <hr>
 3기 활동; 03세션 <br>
 통계학 주전, 소프트웨어 복전 <br><br>

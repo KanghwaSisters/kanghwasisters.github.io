@@ -7,7 +7,7 @@
         "github": "jj8ng",
         "email": "sowcelco@gmail.com",
         "image": "ShangAChoi.jpeg",
-        "status": "active"
+        "status": "inactive"
     },
     {
         "name": "한사랑",
@@ -27,6 +27,6 @@
         "github": "SooMiiii",
         "email": "smlee010303@gmail.com",
         "image": "SooMiiii.jpeg",
-        "status": "active"
+        "status": "inactive"
     }    
 ]

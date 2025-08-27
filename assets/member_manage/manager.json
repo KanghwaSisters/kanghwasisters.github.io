@@ -17,7 +17,7 @@
         "github": "sabina381",
         "email": "sabina2378@ewhain.net",
         "image": "SeungyeonLee.jpeg",
-        "status": "active"
+        "status": "inactive"
     },
     {
         "name": "장예원",
@@ -27,6 +27,6 @@
         "github": "grace0039",
         "email": "grace0039@naver.com",
         "image": "YewonJang.jpg",
-        "status": "active"
+        "status": "inactive"
     }
 ]
